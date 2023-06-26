@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I've been built my website
-subtitle: Each post also has a subtitle
-categories: Python
+subtitle: Quick summary
+categories: Website
 tags: [Python, intro, certificate]
 ---
